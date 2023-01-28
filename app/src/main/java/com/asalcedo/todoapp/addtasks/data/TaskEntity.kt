@@ -3,6 +3,7 @@ package com.asalcedo.todoapp.addtasks.data
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
+import com.asalcedo.todoapp.addtasks.ui.model.TaskModel
 
 /****
  * Project: TodoApp
